@@ -9,5 +9,6 @@ The center passes its blood transfusion service bus to one university in Hsin-Ch
 
 I predict if a blood donor will donate within a given time window. 
 
-CODE: 
+CODE: https://github.com/NaFatimata/Predicting-Blood-Donations/blob/main/Predicting%20Blood%20Donation.ipynb
 
+TECHNOLOGY: Python 
